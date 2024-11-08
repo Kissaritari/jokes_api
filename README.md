@@ -11,8 +11,8 @@
 ### Get joke types
 [https://official-joke-api.appspot.com/types](https://official-joke-api.appspot.com/types)
 
-### Grab ten random jokes
-[https://official-joke-api.appspot.com/random_ten](https://official-joke-api.appspot.com/random_ten)
+### Grab eleven random jokes
+[https://official-joke-api.appspot.com/randomEleven](https://official-joke-api.appspot.com/randomEleven)
 
 
 [https://official-joke-api.appspot.com/jokes/ten](https://official-joke-api.appspot.com/jokes/ten)
